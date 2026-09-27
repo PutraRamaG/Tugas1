@@ -57,7 +57,7 @@ class MainActivity : ComponentActivity() {
                     painter = painterResource(id = R.drawable.foto_profile),
                     contentDescription = "foto_profile",
                     modifier = Modifier
-                        .size(120.dp)
+                        .size(140.dp)
                         .clip(CircleShape)
                 )
                 Spacer(modifier = Modifier.height(16.dp))
