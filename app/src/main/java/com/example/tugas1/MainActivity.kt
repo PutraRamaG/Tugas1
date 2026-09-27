@@ -55,7 +55,7 @@ class MainActivity : ComponentActivity() {
             ) {
                 Image(
                     painter = painterResource(id = R.drawable.foto_profile),
-                    contentDescription = "foto_profile",
+                    contentDescription = "foto profil Putra Rama Gustiantoro",
                     modifier = Modifier
                         .size(140.dp)
                         .clip(CircleShape)
